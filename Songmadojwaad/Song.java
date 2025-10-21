@@ -31,7 +31,7 @@ public class Song {
     }
 
     public String gettopic(){
-        return artist; 
+        return topic; 
     }
 
     public double getDanceability(){
